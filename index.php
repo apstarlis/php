@@ -1,4 +1,5 @@
 <?php
-	echoo "Ola, mundo!"
+	echo "Ola, mundo 456";
+	echo "Ola, Tarlis";
 
 ?>
