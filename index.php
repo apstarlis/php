@@ -1,4 +1,4 @@
 <?php
-	echoo "Hello world!"
+	echoo "Ola, mundo!"
 
 ?>
