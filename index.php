@@ -1,0 +1,4 @@
+<?php
+	echoo "Hello world!"
+
+?>
